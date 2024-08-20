@@ -9,7 +9,9 @@
 **License**: GPLv2 or later  
 **License URI**: [GPL License](https://www.gnu.org/licenses/gpl-2.0.html)
 
-[![Voir le tutoriel](https://img.youtube.com/vi/ymKKxkbqwUY/maxresdefault.jpg)](https://www.youtube.com/watch?v=ymKKxkbqwUY&ab_channel=KevinBenabdelhak)
+<a href="https://www.youtube.com/watch?v=ymKKxkbqwUY&ab_channel=KevinBenabdelhak">
+    <img src="https://kevin-benabdelhak.fr/wp-content/uploads/2024/08/vignette-2.png" alt="Voir le tutoriel" width="300"/>
+</a>
 
 ## Description
 
